@@ -1,0 +1,88 @@
+{
+    "restaurants": [
+        {
+            "id": 1,
+            "name": "Bar Alfa",
+            "type": "Bar",
+            "latitude": 45.478440594396574,
+            "longitude": 12.254627737969916,
+            "address": "Via Torino, 155, 30172 Venezia VE",
+            "phone": "",
+            "img": "",
+            "web": "https://www.facebook.com/baralfamestre",
+            "convenzione": "no"
+        },
+        {
+            "id": 2,
+            "name": "Bar Zeta",
+            "type": "Bar",
+            "latitude": 45.47864331024286,
+            "longitude": 12.25562715660742,
+            "address": "Via Torino, 155, 30172 Venezia VE",
+            "phone": "",
+            "img": "",
+            "web": "https://www.facebook.com/baralfamestre",
+            "convenzione": "no"
+        },
+        {
+            "id": 3,
+            "name": "Ca' Bolea",
+            "type": "Bar Ristorante",
+            "latitude": 45.476725185108016,
+            "longitude": 12.255530878905825,
+            "address": "Via Torino, 180, 30172 Venezia VE",
+            "phone": "0414582341",
+            "img": "",
+            "web": "",
+            "convenzione": "no"
+        },
+        {
+            "id": 4,
+            "name": "Ipercadoro Mestre",
+            "type": "Bar Supermercato",
+            "latitude": 45.479221635647576,
+            "longitude": 12.250818598809722,
+            "address": "Via Torino, 102, 30172 Venezia VE",
+            "phone": "0415310046",
+            "img": "",
+            "web": "",
+            "convenzione": "no"
+        },
+        {
+            "id": 5,
+            "name": "Planetario di Torino",
+            "type": "Planetario",
+            "latitude": 45.039719,
+            "longitude": 7.761858,
+            "address": "Via Osservatorio, 30 - 10025 Pino Torinese TO",
+            "phone": "+390118118740",
+            "img": "http://www.appacademy.it/book/attrazioniTorino/5.jpg",
+            "web": "http://www.planetarioditorino.it/",
+            "convenzione": "no"
+        },
+        {
+            "id": 6,
+            "name": "Palazzo Madama",
+            "type": "Costruzione storica",
+            "latitude": 45.070982,
+            "longitude": 7.685676,
+            "address": "Piazza Castello - 10122 Torino",
+            "phone": "",
+            "img": "http://www.appacademy.it/book/attrazioniTorino/6.jpg",
+            "web": "http://www.palazzomadamatorino.it/",
+            "convenzione": "no"
+        },
+        {
+            "id": 7,
+            "name": "Piazza Vittorio Veneto",
+            "type": "Piazza",
+            "latitude": 45.064258,
+            "longitude": 7.696276,
+            "address": "Piazza Vittorio Veneto - 10123 Torino",
+            "phone": "",
+            "img": "http://www.appacademy.it/book/attrazioniTorino/7.jpg",
+            "web": "http://it.wikipedia.org/wiki/Piazza_Vittorio_Veneto_(Torino)",
+            "convenzione": "no"
+        }
+    ]
+}
